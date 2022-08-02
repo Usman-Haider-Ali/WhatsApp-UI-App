@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_ui/colors.dart';
-import 'package:whatsapp_ui/user_info.dart';
-import 'package:whatsapp_ui/widgets/chat_list.dart';
+import 'package:whatsapp_ui_app/colors.dart';
+import 'package:whatsapp_ui_app/widgets/chat_list.dart';
 
 class MobileChatScreen extends StatelessWidget {
   final String userName;

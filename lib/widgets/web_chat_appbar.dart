@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_ui/user_info.dart';
+import 'package:whatsapp_ui_app/user_info.dart';
 
 class WebChatAppBar extends StatelessWidget {
   const WebChatAppBar({

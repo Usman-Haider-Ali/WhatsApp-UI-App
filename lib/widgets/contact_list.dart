@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_ui/colors.dart';
-import 'package:whatsapp_ui/widgets/web_chat_appbar.dart';
+import 'package:whatsapp_ui_app/colors.dart';
 
 import '../screens/mobile_chat_screen.dart';
-import '../screens/web_layout_screen.dart';
 import '../user_info.dart';
 
 class ContactList extends StatelessWidget {
